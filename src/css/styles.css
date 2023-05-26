@@ -267,7 +267,7 @@ footer {
 }
 
 /* PROYECTOS DESABILITADOS */
-.p2 a, .p3 a{
+.p3 a{
 	pointer-events: none; 
     cursor: default;
 }
